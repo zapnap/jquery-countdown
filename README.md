@@ -8,10 +8,10 @@ took 10 minutes. And it's for you. For Christmas.
 
 Start the countdown.
 
-$('#countdown').countdown({
-  seconds  : 10,
-  callback : function() { alert("Blast Off! Up to the stars we go."); }
-});
+    $('#countdown').countdown({
+      seconds  : 10,
+      callback : function() { alert("Blast Off! Up to the stars we go."); }
+    });
 
 There's some other stuff you can do too. Check the source. The source
 always knows.
